@@ -1,0 +1,2 @@
+0 High Angle
+1 Low Angle
